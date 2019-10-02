@@ -18,6 +18,7 @@ public class BankingApplication {
 		service.updateAccount(new Account("M","P"), 1L);
 		System.out.println(service.read());
 		System.out.println("Jenkins test");
+		System.out.println("Jenkins test2");
 		
 	}
 
